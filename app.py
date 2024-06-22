@@ -5,7 +5,7 @@ import random
 app = Flask(__name__)
 
 # Load dataset from JSON
-with open('dataset/khodam.json', 'r', encoding='utf-8') as f:
+with open('khodam.json', 'r', encoding='utf-8') as f:
     khodam_list = json.load(f)
 
 @app.route('/')
