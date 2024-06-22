@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Khodam Pendamping",
+        "description": "Makhluk gaib yang selalu mendampingi seseorang sejak lahir, memberikan perlindungan dan bimbingan."
+    },
+    {
+        "id": 2,
+        "name": "Khodam Asmaul Husna",
+        "description": "Khodam yang diasosiasikan dengan nama-nama indah Allah (Asmaul Husna) dalam tradisi Islam."
+    },
+    {
+        "id": 3,
+        "name": "Khodam Rajahan",
+        "description": "Khodam yang datang dari hasil rajah (tulisan atau simbol sakral) yang ditulis atau diukir pada benda tertentu."
+    },
+    {
+        "id": 4,
+        "name": "Khodam Keris",
+        "description": "Khodam yang tinggal di dalam keris, senjata tradisional Indonesia. Keris sering kali dianggap memiliki kekuatan spiritual dan khodam yang bisa memberikan kekuatan atau perlindungan kepada pemiliknya."
+    },
+    {
+        "id": 5,
+        "name": "Khodam Ayat",
+        "description": "Khodam yang diasosiasikan dengan ayat-ayat suci, baik dari Al-Quran maupun kitab-kitab suci lainnya. Khodam ini dipercaya memiliki kekuatan spiritual yang kuat yang dapat digunakan untuk berbagai tujuan, termasuk perlindungan dan penyembuhan."
+    },
+    {
+        "id": 6,
+        "name": "Khodam Amalan",
+        "description": "Khodam yang muncul setelah seseorang melakukan amalan tertentu, seperti puasa, wirid, atau zikir secara terus-menerus."
+    },
+    {
+        "id": 7,
+        "name": "Khodam Leluhur",
+        "description": "Khodam yang merupakan arwah leluhur yang menjaga dan melindungi keturunannya."
+    },
+    {
+        "id": 8,
+        "name": "Khodam Alam",
+        "description": "Khodam yang berasal dari alam seperti jin, peri, atau makhluk gaib lainnya yang hidup di alam tertentu seperti gunung, hutan, atau laut."
+    },
+    {
+        "id": 9,
+        "name": "Khodam Macan Putih",
+        "description": "Khodam yang memiliki bentuk dan energi seperti macan putih. Dikenal sangat kuat dan sering kali dipanggil untuk perlindungan dan kekuatan."
+    },
+    {
+        "id": 10,
+        "name": "Khodam Nyi Roro Kidul",
+        "description": "Khodam yang berasal dari legenda Nyi Roro Kidul, ratu pantai selatan. Dipercaya memiliki kekuatan mistis yang besar dan sering kali dipanggil untuk kebijaksanaan dan perlindungan."
+    },
+    {
+        "id": 11,
+        "name": "Khodam Sunan Kalijaga",
+        "description": "Khodam yang diasosiasikan dengan Sunan Kalijaga, salah satu Wali Songo yang dikenal karena kebijaksanaan dan ilmu spiritualnya."
+    },
+    {
+        "id": 12,
+        "name": "Khodam Semar",
+        "description": "Khodam yang berasal dari tokoh wayang Semar, yang merupakan tokoh punakawan yang bijaksana dan penuh humor."
+    },
+    {
+        "id": 13,
+        "name": "Khodam Sabdo Palon",
+        "description": "Khodam dari legenda Sabdo Palon, seorang penasihat spiritual dari masa kerajaan Majapahit yang terkenal karena ramalannya."
+    },
+    {
+        "id": 14,
+        "name": "Khodam Prabu Siliwangi",
+        "description": "Khodam yang berasal dari Prabu Siliwangi, raja terkenal dari Kerajaan Sunda Pajajaran yang dikenal karena kekuatannya dan perlindungannya terhadap rakyatnya."
+    },
+    {
+        "id": 15,
+        "name": "Khodam Kanjeng Ratu Kidul",
+        "description": "Khodam yang berasal dari Kanjeng Ratu Kidul, ratu legendaris dari laut selatan Jawa yang memiliki kekuatan mistis besar."
+    },
+    {
+        "id": 16,
+        "name": "Khodam Pangeran Diponegoro",
+        "description": "Khodam yang berasal dari Pangeran Diponegoro, pahlawan nasional Indonesia yang dikenal karena perjuangannya melawan penjajah Belanda."
+    },
+    {
+        "id": 17,
+        "name": "Khodam Sultan Agung",
+        "description": "Khodam yang berasal dari Sultan Agung, raja Mataram yang dikenal karena kepemimpinannya yang kuat dan bijaksana."
+    },
+    {
+        "id": 18,
+        "name": "Khodam Dewi Sri",
+        "description": "Khodam yang berasal dari Dewi Sri, dewi kesuburan dan kemakmuran dalam kepercayaan Jawa."
+    },
+    {
+        "id": 19,
+        "name": "Khodam Ki Ageng Selo",
+        "description": "Khodam yang diasosiasikan dengan Ki Ageng Selo, tokoh spiritual Jawa yang dikenal karena kemampuannya menangkap petir."
+    },
+    {
+        "id": 20,
+        "name": "Khodam Panembahan Senopati",
+        "description": "Khodam yang berasal dari Panembahan Senopati, pendiri Kesultanan Mataram yang dikenal karena kekuatan spiritual dan militernya."
+    }
+]
