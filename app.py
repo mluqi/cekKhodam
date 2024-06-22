@@ -1,30 +1,26 @@
-from flask import Flask, jsonify, request, render_template, url_for
+from flask import Flask, render_template, request, jsonify
 import json
 import random
 
 app = Flask(__name__)
 
-# Load khodam data from JSON file
-with open('khodam.json') as f:
-    khodam_data = json.load(f)
+# Load dataset from JSON
+with open('dataset/khodam.json', 'r', encoding='utf-8') as f:
+    khodam_list = json.load(f)
 
-@app.route('/', methods=['GET'])
+@app.route('/')
 def index():
     return render_template('index.html')
 
 @app.route('/submit', methods=['POST'])
 def submit():
-    name = request.form.get('name')
-    
-    # Select random khodam
-    selected_khodam = random.choice(khodam_data)
-    
+    name = request.form['name']
+    khodam = random.choice(khodam_list)
     result = {
         'name': name,
-        'khodam_name': selected_khodam['name'],
-        'khodam_description': selected_khodam['description']
+        'khodam_name': khodam['name'],
+        'khodam_description': khodam['description']
     }
-    
     return jsonify(result)
 
 if __name__ == '__main__':
